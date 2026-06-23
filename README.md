@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
@@ -23,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
