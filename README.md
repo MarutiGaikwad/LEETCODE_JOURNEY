@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/0001-two-sum) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
+## String
+|  |
+| ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Counting
+|  |
+| ------- |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/MarutiGaikwad/LEETCODE_JOURNEY/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
